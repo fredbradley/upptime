@@ -4,19 +4,19 @@
     "url": "https://www.cranleigh.org",
     "icon": "https://favicons.githubusercontent.com/www.cranleigh.org",
     "slug": "senior-school-website",
-    "status": "down",
-    "uptime": "97.72%",
-    "uptimeDay": "93.59%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
-    "time": 970,
-    "timeDay": 913,
-    "timeWeek": 970,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "status": "up",
+    "uptime": "97.06%",
+    "uptimeDay": "91.69%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "97.06%",
+    "time": 938,
+    "timeDay": 847,
+    "timeWeek": 938,
+    "timeMonth": 938,
+    "timeYear": 938,
     "dailyMinutesDown": {
-      "2022-02-25": 92
+      "2022-02-25": 119
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.cranprep.org",
     "icon": "https://favicons.githubusercontent.com/www.cranprep.org",
     "slug": "prep-school-website",
-    "status": "down",
-    "uptime": "97.74%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "97.74%",
-    "time": 1443,
-    "timeDay": 1229,
-    "timeWeek": 1443,
-    "timeMonth": 1443,
-    "timeYear": 1443,
+    "status": "up",
+    "uptime": "97.08%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
+    "time": 1432,
+    "timeDay": 1272,
+    "timeWeek": 1432,
+    "timeMonth": 1432,
+    "timeYear": 1432,
     "dailyMinutesDown": {
-      "2022-02-25": 92
+      "2022-02-25": 119
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.ocsociety.org",
     "icon": "https://favicons.githubusercontent.com/www.ocsociety.org",
     "slug": "oc-society",
-    "status": "down",
-    "uptime": "97.77%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "97.77%",
-    "time": 1545,
-    "timeDay": 1375,
-    "timeWeek": 1545,
-    "timeMonth": 1545,
-    "timeYear": 1545,
+    "status": "up",
+    "uptime": "97.11%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.11%",
+    "time": 1473,
+    "timeDay": 1238,
+    "timeWeek": 1473,
+    "timeMonth": 1473,
+    "timeYear": 1473,
     "dailyMinutesDown": {
-      "2022-02-25": 90
+      "2022-02-25": 117
     }
   }
 ]
