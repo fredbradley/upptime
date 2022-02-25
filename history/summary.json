@@ -4,53 +4,59 @@
     "url": "https://www.cranleigh.org",
     "icon": "https://favicons.githubusercontent.com/www.cranleigh.org",
     "slug": "senior-school-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1013,
-    "timeDay": 884,
+    "timeDay": 1110,
     "timeWeek": 1013,
     "timeMonth": 1013,
     "timeYear": 1013,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 1
+    }
   },
   {
     "name": "Prep School Website",
     "url": "https://www.cranprep.org",
     "icon": "https://favicons.githubusercontent.com/www.cranprep.org",
     "slug": "prep-school-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1484,
-    "timeDay": 1327,
+    "timeDay": 1265,
     "timeWeek": 1484,
     "timeMonth": 1484,
     "timeYear": 1484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 1
+    }
   },
   {
     "name": "OC Society",
     "url": "https://www.ocsociety.org",
     "icon": "https://favicons.githubusercontent.com/www.ocsociety.org",
     "slug": "oc-society",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1599,
-    "timeDay": 1319,
+    "timeDay": 1529,
     "timeWeek": 1599,
     "timeMonth": 1599,
     "timeYear": 1599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   }
 ]
