@@ -4,12 +4,12 @@
     "url": "https://www.cranleigh.org",
     "icon": "https://favicons.githubusercontent.com/www.cranleigh.org",
     "slug": "senior-school-website",
-    "status": "up",
-    "uptime": "96.03%",
-    "uptimeDay": "35.18%",
+    "status": "down",
+    "uptime": "96.07%",
+    "uptimeDay": "35.17%",
     "uptimeWeek": "82.25%",
     "uptimeMonth": "91.38%",
-    "uptimeYear": "96.03%",
+    "uptimeYear": "96.07%",
     "time": 5786,
     "timeDay": 21487,
     "timeWeek": 13956,
@@ -47,8 +47,7 @@
       "2022-03-13": 285,
       "2022-03-07": 81,
       "2022-03-05": 264,
-      "2022-03-02": 137,
-      "2022-02-28": 77
+      "2022-03-02": 137
     }
   },
   {
