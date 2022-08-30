@@ -37,7 +37,7 @@ status-website:
   cname: uptime.cran.ly
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  name: Cranleigh Web Status
   introTitle: "Cranleigh Websites Uptime Tracker"
   introMessage: This page collects data about which websites are up or down.
   navbar:
