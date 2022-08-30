@@ -9,6 +9,15 @@ sites:
   - name: Prep School Website
     url: https://www.cranprep.org
     maxResponseTime: 10000
+  - name: Abu Dhabi
+    url: https://www.cranleigh.ae
+    maxResponseTime: 10000
+  - name: Admissions Portal
+    url: https://admissions.cranleigh.org
+    maxResponseTime: 10000 
+  - name: WP Public Network
+    url: https://wordpress-public.cranleigh.org
+    maxResponseTime: 10000
   - name: OC Society
     url: https://www.ocsociety.org
     maxResponseTime: 10000
