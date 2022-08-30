@@ -39,7 +39,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Cranleigh Web Status
   introTitle: "Cranleigh Websites Uptime Tracker"
-  introMessage: This page collects data about which websites are up or down.
+  introMessage: This page collects data about which websites are up or down
   navbar:
     - title: Status
       href: /
