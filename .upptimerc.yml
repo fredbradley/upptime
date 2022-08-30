@@ -1,20 +1,26 @@
 # Change these first
 owner: fredbradley # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-
+user-agent: fredbradley
 sites:
   - name: Senior School Website
     url: https://www.cranleigh.org
+    maxResponseTime: 10000
   - name: Prep School Website
     url: https://www.cranprep.org
+    maxResponseTime: 10000
   - name: OC Society
     url: https://www.ocsociety.org
+    maxResponseTime: 10000
   - name: Blogs Network
     url: https://blogs.cranleigh.org
+    maxResponseTime: 10000
   - name: Awesome Book Awards
     url: https://www.awesomebookawards.com
+    maxResponseTime: 10000
   - name: VMT Dashboard
     url: https://vmt.cranleigh.org
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
