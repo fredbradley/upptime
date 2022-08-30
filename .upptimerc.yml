@@ -9,6 +9,12 @@ sites:
     url: https://www.cranprep.org
   - name: OC Society
     url: https://www.ocsociety.org
+  - name: Blogs Network
+    url: https://blogs.cranleigh.org
+  - name: Awesome Book Awards
+    url: https://www.awesomebookawards.com
+  - name: VMT Dashboard
+    url: https://vmt.cranleigh.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
