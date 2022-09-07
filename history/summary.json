@@ -121,9 +121,9 @@
     "url": "https://admissions.cranleigh.org",
     "icon": "https://favicons.githubusercontent.com/admissions.cranleigh.org",
     "slug": "admissions-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +132,9 @@
     "timeWeek": 1401,
     "timeMonth": 1375,
     "timeYear": 1375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-07": 0
+    }
   },
   {
     "name": "WP Public Network",
@@ -158,11 +160,11 @@
     "icon": "https://favicons.githubusercontent.com/www.ocsociety.org",
     "slug": "oc-society",
     "status": "up",
-    "uptime": "94.37%",
+    "uptime": "94.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.37%",
+    "uptimeYear": "94.38%",
     "time": 1507,
     "timeDay": 1070,
     "timeWeek": 1335,
