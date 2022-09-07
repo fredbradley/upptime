@@ -121,19 +121,19 @@
     "url": "https://admissions.cranleigh.org",
     "icon": "https://favicons.githubusercontent.com/admissions.cranleigh.org",
     "slug": "admissions-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1375,
-    "timeDay": 1510,
-    "timeWeek": 1401,
-    "timeMonth": 1375,
-    "timeYear": 1375,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1301,
+    "timeDay": 1002,
+    "timeWeek": 1310,
+    "timeMonth": 1301,
+    "timeYear": 1301,
     "dailyMinutesDown": {
-      "2022-09-07": 0
+      "2022-09-07": 22
     }
   },
   {
