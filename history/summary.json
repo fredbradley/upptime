@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cranleigh.org",
     "slug": "senior-school-website",
     "status": "up",
-    "uptime": "97.31%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "97.31%",
+    "uptime": "97.30%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.30%",
     "time": 5165,
     "timeDay": 5169,
     "timeWeek": 2678,
     "timeMonth": 2706,
     "timeYear": 5165,
     "dailyMinutesDown": {
-      "2022-09-20": 93,
+      "2022-09-20": 90,
       "2022-09-13": 473,
       "2022-09-12": 43,
       "2022-09-09": 84,
@@ -48,7 +48,7 @@
       "2022-05-03": 412,
       "2022-04-29": 15,
       "2022-04-27": 123,
-      "2022-04-26": 0
+      "2022-04-26": 18
     }
   },
   {
@@ -149,7 +149,7 @@
     "uptimeYear": "100.00%",
     "time": 2058,
     "timeDay": 749,
-    "timeWeek": 924,
+    "timeWeek": 921,
     "timeMonth": 2058,
     "timeYear": 2058,
     "dailyMinutesDown": {}
