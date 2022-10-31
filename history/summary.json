@@ -4,9 +4,9 @@
     "url": "https://www.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.org.ico",
     "slug": "senior-school-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.42%",
-    "uptimeDay": "73.63%",
+    "uptimeDay": "76.01%",
     "uptimeWeek": "75.54%",
     "uptimeMonth": "90.36%",
     "uptimeYear": "97.42%",
@@ -58,7 +58,7 @@
       "2022-07-19": 16,
       "2022-07-15": 293,
       "2022-07-14": 741,
-      "2022-07-13": 382
+      "2022-07-13": 364
     }
   },
   {
