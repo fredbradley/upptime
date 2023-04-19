@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.org.ico",
     "slug": "senior-school-website",
     "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.20%",
+    "uptime": "98.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.19%",
     "time": 5023,
     "timeDay": 4571,
     "timeWeek": 2542,
     "timeMonth": 1981,
     "timeYear": 5495,
     "dailyMinutesDown": {
-      "2023-04-18": 11,
       "2022-12-02": 25,
       "2022-11-24": 114,
       "2022-11-20": 28,
@@ -63,7 +62,7 @@
       "2022-07-19": 16,
       "2022-07-15": 293,
       "2022-07-14": 741,
-      "2022-07-13": 157
+      "2022-07-13": 223
     }
   },
   {
