@@ -12,7 +12,7 @@
     "uptimeYear": "98.20%",
     "time": 4974,
     "timeDay": 1094,
-    "timeWeek": 946,
+    "timeWeek": 940,
     "timeMonth": 1129,
     "timeYear": 5088,
     "dailyMinutesDown": {
@@ -180,11 +180,11 @@
     "url": "https://blogs.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1352,
     "timeDay": 1308,
@@ -192,6 +192,7 @@
     "timeMonth": 1176,
     "timeYear": 1352,
     "dailyMinutesDown": {
+      "2023-07-03": 3,
       "2022-12-02": 21,
       "2022-10-10": 19
     }
@@ -201,10 +202,10 @@
     "url": "https://www.awesomebookawards.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.awesomebookawards.com.ico",
     "slug": "awesome-book-awards",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1304,
@@ -213,6 +214,7 @@
     "timeMonth": 1055,
     "timeYear": 1304,
     "dailyMinutesDown": {
+      "2023-07-03": 2,
       "2022-12-02": 20,
       "2022-10-10": 19
     }
@@ -222,9 +224,9 @@
     "url": "https://vmt.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/vmt.cranleigh.org.ico",
     "slug": "vmt-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -234,6 +236,7 @@
     "timeMonth": 1035,
     "timeYear": 1085,
     "dailyMinutesDown": {
+      "2023-07-03": 0,
       "2022-12-02": 20,
       "2022-10-10": 17
     }
