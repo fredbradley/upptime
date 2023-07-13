@@ -62,8 +62,7 @@
       "2022-07-21": 27,
       "2022-07-19": 16,
       "2022-07-15": 293,
-      "2022-07-14": 741,
-      "2022-07-13": 157
+      "2022-07-14": 741
     }
   },
   {
@@ -140,18 +139,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-public.cranleigh.org.ico",
     "slug": "wp-public-network",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1138,
     "timeDay": 7013,
     "timeWeek": 3469,
     "timeMonth": 1786,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2023-07-12": 5,
       "2022-12-02": 19
     }
   },
