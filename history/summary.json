@@ -171,9 +171,9 @@
     "slug": "blogs-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1353,
     "timeDay": 1315,
@@ -181,7 +181,6 @@
     "timeMonth": 1364,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2023-07-31": 8,
       "2022-12-02": 21,
       "2022-10-10": 19
     }
@@ -193,9 +192,9 @@
     "slug": "awesome-book-awards",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1280,
     "timeDay": 897,
@@ -203,7 +202,6 @@
     "timeMonth": 1053,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2023-07-31": 6,
       "2022-12-02": 20,
       "2022-10-10": 19
     }
@@ -215,9 +213,9 @@
     "slug": "vmt-dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1094,
     "timeDay": 1154,
@@ -225,7 +223,6 @@
     "timeMonth": 1191,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2023-07-31": 5,
       "2022-12-02": 20,
       "2022-10-10": 17
     }
