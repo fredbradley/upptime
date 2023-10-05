@@ -14,7 +14,7 @@
     "timeDay": 910,
     "timeWeek": 935,
     "timeMonth": 928,
-    "timeYear": 3404,
+    "timeYear": 3407,
     "dailyMinutesDown": {
       "2023-06-07": 24,
       "2022-12-02": 25,
@@ -38,8 +38,7 @@
       "2022-10-10": 233,
       "2022-10-08": 87,
       "2022-10-07": 118,
-      "2022-10-06": 47,
-      "2022-10-05": 57
+      "2022-10-06": 47
     }
   },
   {
@@ -108,8 +107,7 @@
       "2023-03-22": 810,
       "2023-01-16": 509,
       "2023-01-15": 1232,
-      "2022-11-12": 198,
-      "2022-10-05": 495
+      "2022-11-12": 198
     }
   },
   {
@@ -119,17 +117,16 @@
     "slug": "wp-public-network",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1133,
     "timeDay": 940,
     "timeWeek": 1081,
     "timeMonth": 1092,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-10-04": 8,
       "2022-12-02": 19
     }
   },
@@ -160,17 +157,16 @@
     "slug": "blogs-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1340,
     "timeDay": 1458,
-    "timeWeek": 1284,
+    "timeWeek": 1288,
     "timeMonth": 1292,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-10-04": 7,
       "2022-12-02": 21,
       "2022-10-10": 19
     }
@@ -209,7 +205,7 @@
     "uptimeYear": "99.99%",
     "time": 1086,
     "timeDay": 1005,
-    "timeWeek": 1013,
+    "timeWeek": 952,
     "timeMonth": 1058,
     "timeYear": 1066,
     "dailyMinutesDown": {
