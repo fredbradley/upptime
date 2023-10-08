@@ -14,7 +14,7 @@
     "timeDay": 864,
     "timeWeek": 896,
     "timeMonth": 942,
-    "timeYear": 3318,
+    "timeYear": 3321,
     "dailyMinutesDown": {
       "2023-06-07": 24,
       "2022-12-02": 25,
@@ -95,7 +95,7 @@
     "timeDay": 668,
     "timeWeek": 625,
     "timeMonth": 665,
-    "timeYear": 904,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2023-09-26": 365,
       "2023-09-25": 671,
@@ -122,7 +122,7 @@
     "timeDay": 946,
     "timeWeek": 1059,
     "timeMonth": 1080,
-    "timeYear": 1082,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2022-12-02": 19
     }
@@ -142,7 +142,7 @@
     "timeDay": 895,
     "timeWeek": 1027,
     "timeMonth": 1010,
-    "timeYear": 998,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2022-12-02": 22
     }
@@ -152,19 +152,19 @@
     "url": "https://blogs.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1339,
-    "timeDay": 1245,
-    "timeWeek": 1340,
-    "timeMonth": 1306,
-    "timeYear": 1203,
+    "time": 1338,
+    "timeDay": 1084,
+    "timeWeek": 1293,
+    "timeMonth": 1294,
+    "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-10-08": 0,
+      "2023-10-08": 8,
       "2022-12-02": 21,
       "2022-10-10": 19
     }
@@ -184,7 +184,7 @@
     "timeDay": 178,
     "timeWeek": 293,
     "timeMonth": 289,
-    "timeYear": 1049,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2022-12-02": 20,
       "2022-10-10": 19
@@ -205,7 +205,7 @@
     "timeDay": 1081,
     "timeWeek": 1065,
     "timeMonth": 1100,
-    "timeYear": 1066,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2022-12-02": 20,
       "2022-10-10": 17
