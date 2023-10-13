@@ -31,8 +31,7 @@
       "2022-10-20": 411,
       "2022-10-19": 172,
       "2022-10-18": 27,
-      "2022-10-14": 215,
-      "2022-10-13": 90
+      "2022-10-14": 215
     }
   },
   {
@@ -151,9 +150,9 @@
     "slug": "blogs-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1337,
     "timeDay": 1024,
@@ -161,7 +160,6 @@
     "timeMonth": 1308,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-10-12": 8,
       "2023-10-09": 17,
       "2022-12-02": 21
     }
@@ -193,9 +191,9 @@
     "slug": "vmt-dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1086,
     "timeDay": 745,
@@ -203,7 +201,6 @@
     "timeMonth": 1091,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2023-10-12": 6,
       "2023-10-09": 15,
       "2022-12-02": 20
     }
