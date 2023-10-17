@@ -60,9 +60,9 @@
     "url": "https://www.cranleigh.ae",
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.ae.ico",
     "slug": "abu-dhabi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,6 +72,7 @@
     "timeMonth": 310,
     "timeYear": 337,
     "dailyMinutesDown": {
+      "2023-10-17": 0,
       "2023-07-03": 20
     }
   },
