@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
-    "time": 3378,
-    "timeDay": 1214,
-    "timeWeek": 962,
-    "timeMonth": 922,
-    "timeYear": 2948,
+    "uptimeYear": "99.38%",
+    "time": 3377,
+    "timeDay": 1211,
+    "timeWeek": 1025,
+    "timeMonth": 939,
+    "timeYear": 2890,
     "dailyMinutesDown": {
       "2023-06-07": 24,
       "2022-12-02": 25,
@@ -27,8 +27,7 @@
       "2022-10-28": 123,
       "2022-10-26": 415,
       "2022-10-25": 25,
-      "2022-10-24": 114,
-      "2022-10-20": 411
+      "2022-10-24": 114
     }
   },
   {
@@ -37,16 +36,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cranprep.org.ico",
     "slug": "prep-school-website",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1456,
-    "timeDay": 1046,
-    "timeWeek": 856,
-    "timeMonth": 802,
-    "timeYear": 1346,
+    "time": 1454,
+    "timeDay": 733,
+    "timeWeek": 858,
+    "timeMonth": 806,
+    "timeYear": 1337,
     "dailyMinutesDown": {
       "2023-08-08": 23,
       "2023-01-02": 15,
@@ -65,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 460,
-    "timeWeek": 394,
-    "timeMonth": 322,
+    "timeDay": 400,
+    "timeWeek": 405,
+    "timeMonth": 330,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2023-07-03": 20
@@ -85,9 +84,9 @@
     "uptimeMonth": "97.63%",
     "uptimeYear": "99.18%",
     "time": 979,
-    "timeDay": 783,
-    "timeWeek": 636,
-    "timeMonth": 635,
+    "timeDay": 966,
+    "timeWeek": 692,
+    "timeMonth": 656,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2023-09-26": 365,
@@ -112,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1133,
-    "timeDay": 1527,
-    "timeWeek": 1061,
-    "timeMonth": 1082,
-    "timeYear": 1091,
+    "timeDay": 1067,
+    "timeWeek": 1085,
+    "timeMonth": 1095,
+    "timeYear": 1090,
     "dailyMinutesDown": {
       "2022-12-02": 19
     }
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1149,
-    "timeDay": 1367,
-    "timeWeek": 976,
-    "timeMonth": 1000,
-    "timeYear": 997,
+    "time": 1145,
+    "timeDay": 1368,
+    "timeWeek": 1084,
+    "timeMonth": 1021,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2022-12-02": 22
     }
@@ -152,10 +151,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1336,
-    "timeDay": 1336,
-    "timeWeek": 1236,
-    "timeMonth": 1294,
-    "timeYear": 1179,
+    "timeDay": 1416,
+    "timeWeek": 1291,
+    "timeMonth": 1305,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2023-10-09": 17,
       "2022-12-02": 21
@@ -172,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1110,
-    "timeDay": 331,
-    "timeWeek": 291,
-    "timeMonth": 290,
-    "timeYear": 982,
+    "time": 1108,
+    "timeDay": 300,
+    "timeWeek": 295,
+    "timeMonth": 294,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2022-12-02": 20
     }
@@ -193,10 +192,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1140,
-    "timeDay": 8952,
-    "timeWeek": 2974,
-    "timeMonth": 1703,
-    "timeYear": 1129,
+    "timeDay": 1288,
+    "timeWeek": 3226,
+    "timeMonth": 1714,
+    "timeYear": 1128,
     "dailyMinutesDown": {
       "2023-10-09": 15,
       "2022-12-02": 20
