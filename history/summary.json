@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2691,
-    "timeDay": 852,
-    "timeWeek": 1025,
-    "timeMonth": 996,
-    "timeYear": 1507,
+    "time": 2687,
+    "timeDay": 797,
+    "timeWeek": 1016,
+    "timeMonth": 991,
+    "timeYear": 1502,
     "dailyMinutesDown": {
-      "2023-06-07": 24,
-      "2022-12-02": 25
+      "2023-06-07": 24
     }
   },
   {
@@ -26,20 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cranprep.org.ico",
     "slug": "prep-school-website",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1352,
-    "timeDay": 707,
-    "timeWeek": 817,
-    "timeMonth": 819,
-    "timeYear": 1257,
+    "time": 1351,
+    "timeDay": 665,
+    "timeWeek": 800,
+    "timeMonth": 811,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2023-08-08": 23,
-      "2023-01-02": 15,
-      "2022-12-02": 24
+      "2023-01-02": 15
     }
   },
   {
@@ -54,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 900,
+    "timeDay": 436,
     "timeWeek": 1758,
-    "timeMonth": 870,
+    "timeMonth": 872,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2023-07-03": 20
@@ -69,15 +67,15 @@
     "slug": "admissions-portal",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "97.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.21%",
-    "time": 970,
-    "timeDay": 3110,
-    "timeWeek": 1653,
-    "timeMonth": 996,
-    "timeYear": 874,
+    "time": 969,
+    "timeDay": 678,
+    "timeWeek": 1654,
+    "timeMonth": 997,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2023-11-30": 36,
       "2023-09-26": 365,
@@ -101,13 +99,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1127,
-    "timeDay": 1146,
-    "timeWeek": 1177,
-    "timeMonth": 1131,
+    "timeDay": 898,
+    "timeWeek": 1141,
+    "timeMonth": 1120,
     "timeYear": 1115,
-    "dailyMinutesDown": {
-      "2022-12-02": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OC Society",
@@ -120,14 +116,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 633,
-    "timeWeek": 958,
-    "timeMonth": 987,
-    "timeYear": 988,
-    "dailyMinutesDown": {
-      "2022-12-02": 22
-    }
+    "time": 1052,
+    "timeDay": 797,
+    "timeWeek": 970,
+    "timeMonth": 986,
+    "timeYear": 987,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blogs Network",
@@ -140,14 +134,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1319,
-    "timeDay": 1138,
-    "timeWeek": 1106,
-    "timeMonth": 1156,
-    "timeYear": 1164,
+    "time": 1318,
+    "timeDay": 852,
+    "timeWeek": 1065,
+    "timeMonth": 1144,
+    "timeYear": 1163,
     "dailyMinutesDown": {
-      "2023-10-09": 17,
-      "2022-12-02": 21
+      "2023-10-09": 17
     }
   },
   {
@@ -161,14 +154,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1037,
-    "timeDay": 324,
-    "timeWeek": 371,
-    "timeMonth": 337,
-    "timeYear": 875,
-    "dailyMinutesDown": {
-      "2022-12-02": 20
-    }
+    "time": 1035,
+    "timeDay": 210,
+    "timeWeek": 354,
+    "timeMonth": 329,
+    "timeYear": 873,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VMT Dashboard",
@@ -181,14 +172,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1131,
-    "timeDay": 761,
-    "timeWeek": 1084,
-    "timeMonth": 1066,
+    "time": 1130,
+    "timeDay": 850,
+    "timeWeek": 1065,
+    "timeMonth": 1051,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2023-10-09": 15,
-      "2022-12-02": 20
+      "2023-10-09": 15
     }
   }
 ]
