@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.org.ico",
     "slug": "senior-school-website",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cranprep.org.ico",
     "slug": "prep-school-website",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -45,9 +45,9 @@
     "url": "https://www.cranleigh.ae",
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.ae.ico",
     "slug": "abu-dhabi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +57,7 @@
     "timeMonth": 1025,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2023-12-09": 0,
       "2023-07-03": 20
     }
   },
