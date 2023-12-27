@@ -45,9 +45,9 @@
     "url": "https://www.cranleigh.ae",
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.ae.ico",
     "slug": "abu-dhabi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +57,7 @@
     "timeMonth": 1169,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2023-12-27": 0,
       "2023-07-03": 20
     }
   },
@@ -111,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
