@@ -90,46 +90,50 @@
     "url": "https://wordpress-public.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-public.cranleigh.org.ico",
     "slug": "wp-public-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1079,
+    "time": 1080,
     "timeDay": 781,
     "timeWeek": 1189,
     "timeMonth": 1081,
     "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-21": 4
+    }
   },
   {
     "name": "OC Society",
     "url": "https://www.ocsociety.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 990,
     "timeDay": 814,
     "timeWeek": 1121,
     "timeMonth": 996,
     "timeYear": 983,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-21": 2
+    }
   },
   {
     "name": "Blogs Network",
     "url": "https://blogs.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1165,
@@ -138,6 +142,7 @@
     "timeMonth": 1214,
     "timeYear": 1194,
     "dailyMinutesDown": {
+      "2024-02-21": 1,
       "2023-10-09": 17
     }
   },
