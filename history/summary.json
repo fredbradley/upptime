@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.org.ico",
     "slug": "senior-school-website",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1466,
-    "timeDay": 849,
-    "timeWeek": 928,
-    "timeMonth": 921,
-    "timeYear": 1199,
+    "time": 1464,
+    "timeDay": 1172,
+    "timeWeek": 967,
+    "timeMonth": 934,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2023-06-07": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1184,
-    "timeDay": 855,
-    "timeWeek": 812,
-    "timeMonth": 805,
+    "timeDay": 1152,
+    "timeWeek": 881,
+    "timeMonth": 820,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2023-08-08": 23
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 506,
-    "timeDay": 742,
-    "timeWeek": 973,
-    "timeMonth": 1010,
-    "timeYear": 586,
+    "time": 507,
+    "timeDay": 1298,
+    "timeWeek": 1028,
+    "timeMonth": 1023,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-01-10": 19,
       "2023-07-03": 20
@@ -71,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 846,
-    "timeDay": 484,
-    "timeWeek": 546,
-    "timeMonth": 656,
+    "time": 845,
+    "timeDay": 727,
+    "timeWeek": 597,
+    "timeMonth": 662,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2023-11-30": 36,
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 1070,
-    "timeWeek": 1051,
-    "timeMonth": 1055,
-    "timeYear": 1120,
+    "time": 1087,
+    "timeDay": 1184,
+    "timeWeek": 1063,
+    "timeMonth": 1057,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2024-02-21": 17
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 854,
-    "timeWeek": 910,
-    "timeMonth": 962,
-    "timeYear": 978,
+    "time": 982,
+    "timeDay": 1054,
+    "timeWeek": 956,
+    "timeMonth": 965,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-02-21": 16
     }
@@ -137,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1162,
-    "timeDay": 1091,
-    "timeWeek": 1114,
-    "timeMonth": 1169,
-    "timeYear": 1194,
+    "timeDay": 1217,
+    "timeWeek": 1142,
+    "timeMonth": 1166,
+    "timeYear": 1195,
     "dailyMinutesDown": {
       "2023-10-09": 17
     }
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 217,
-    "timeWeek": 252,
-    "timeMonth": 291,
-    "timeYear": 647,
+    "time": 770,
+    "timeDay": 259,
+    "timeWeek": 268,
+    "timeMonth": 295,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   },
   {
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 871,
-    "timeWeek": 1003,
+    "time": 1108,
+    "timeDay": 1161,
+    "timeWeek": 1049,
     "timeMonth": 1011,
-    "timeYear": 1120,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2023-10-09": 15
     }
