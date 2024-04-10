@@ -90,10 +90,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-public.cranleigh.org.ico",
     "slug": "wp-public-network",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1098,
     "timeDay": 1085,
@@ -101,7 +101,6 @@
     "timeMonth": 1061,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-04-09": 8,
       "2024-02-21": 17
     }
   },
@@ -132,9 +131,9 @@
     "slug": "blogs-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1178,
     "timeDay": 1309,
@@ -142,7 +141,6 @@
     "timeMonth": 1236,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2024-04-09": 6,
       "2023-10-09": 17
     }
   },
@@ -171,9 +169,9 @@
     "slug": "vmt-dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1102,
     "timeDay": 951,
@@ -181,7 +179,6 @@
     "timeMonth": 997,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2024-04-09": 4,
       "2023-10-09": 15
     }
   }
