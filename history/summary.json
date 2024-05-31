@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 905,
-    "timeWeek": 971,
-    "timeMonth": 967,
-    "timeYear": 968,
+    "time": 1197,
+    "timeDay": 774,
+    "timeWeek": 958,
+    "timeMonth": 961,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2023-06-07": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 854,
-    "timeWeek": 844,
-    "timeMonth": 858,
-    "timeYear": 969,
+    "time": 1076,
+    "timeDay": 771,
+    "timeWeek": 847,
+    "timeMonth": 855,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2023-08-08": 23
     }
@@ -45,18 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.ae.ico",
     "slug": "abu-dhabi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 625,
-    "timeDay": 4900,
-    "timeWeek": 2266,
-    "timeMonth": 1419,
-    "timeYear": 772,
+    "time": 626,
+    "timeDay": 4910,
+    "timeWeek": 2280,
+    "timeMonth": 1404,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2024-05-30": 11,
       "2024-01-10": 19,
       "2023-07-03": 20
     }
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 805,
-    "timeDay": 560,
-    "timeWeek": 639,
-    "timeMonth": 680,
-    "timeYear": 774,
+    "time": 804,
+    "timeDay": 567,
+    "timeWeek": 625,
+    "timeMonth": 676,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2023-11-30": 36,
       "2023-09-26": 365,
@@ -96,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1108,
-    "timeDay": 1461,
-    "timeWeek": 1088,
-    "timeMonth": 1125,
-    "timeYear": 1139,
+    "time": 1107,
+    "timeDay": 727,
+    "timeWeek": 1081,
+    "timeMonth": 1113,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2024-02-21": 17
     }
@@ -116,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 943,
-    "timeWeek": 975,
-    "timeMonth": 984,
-    "timeYear": 980,
+    "time": 971,
+    "timeDay": 762,
+    "timeWeek": 954,
+    "timeMonth": 977,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-02-21": 16
     }
@@ -137,10 +136,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1198,
-    "timeDay": 1131,
-    "timeWeek": 1227,
-    "timeMonth": 1267,
-    "timeYear": 1226,
+    "timeDay": 823,
+    "timeWeek": 1224,
+    "timeMonth": 1253,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2023-10-09": 17
     }
@@ -156,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 224,
-    "timeWeek": 298,
-    "timeMonth": 282,
-    "timeYear": 441,
+    "time": 624,
+    "timeDay": 250,
+    "timeWeek": 286,
+    "timeMonth": 281,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   },
   {
@@ -175,9 +174,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1102,
-    "timeDay": 947,
-    "timeWeek": 1057,
-    "timeMonth": 1025,
+    "timeDay": 1086,
+    "timeWeek": 1042,
+    "timeMonth": 1027,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-10-09": 15
