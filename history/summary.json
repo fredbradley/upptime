@@ -91,9 +91,9 @@
     "slug": "wp-public-network",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1110,
     "timeDay": 1119,
@@ -101,7 +101,6 @@
     "timeMonth": 1120,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2024-06-04": 9,
       "2024-02-21": 17
     }
   },
