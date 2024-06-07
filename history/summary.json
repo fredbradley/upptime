@@ -14,7 +14,7 @@
     "timeDay": 867,
     "timeWeek": 1007,
     "timeMonth": 956,
-    "timeYear": 946,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,19 @@
     "url": "https://www.cranleigh.ae",
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.ae.ico",
     "slug": "abu-dhabi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 637,
+    "time": 638,
     "timeDay": 987,
     "timeWeek": 1219,
     "timeMonth": 1429,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2024-06-07": 0,
       "2024-01-10": 19,
       "2023-07-03": 20
     }
@@ -71,7 +72,7 @@
     "uptimeYear": "99.70%",
     "time": 794,
     "timeDay": 390,
-    "timeWeek": 771,
+    "timeWeek": 764,
     "timeMonth": 696,
     "timeYear": 771,
     "dailyMinutesDown": {
@@ -108,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
