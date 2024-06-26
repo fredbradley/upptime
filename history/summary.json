@@ -95,9 +95,9 @@
     "slug": "wp-public-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1112,
     "timeDay": 1004,
@@ -105,7 +105,6 @@
     "timeMonth": 1086,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2024-06-25": 8,
       "2024-06-10": 32,
       "2024-02-21": 17
     }
@@ -117,9 +116,9 @@
     "slug": "oc-society",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 976,
     "timeDay": 922,
@@ -127,7 +126,6 @@
     "timeMonth": 1004,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2024-06-25": 6,
       "2024-06-10": 32,
       "2024-02-21": 16
     }
