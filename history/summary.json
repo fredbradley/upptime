@@ -93,11 +93,11 @@
     "url": "https://wordpress-public.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-public.cranleigh.org.ico",
     "slug": "wp-public-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1111,
     "timeDay": 948,
@@ -105,6 +105,7 @@
     "timeMonth": 1063,
     "timeYear": 1137,
     "dailyMinutesDown": {
+      "2024-07-01": 2,
       "2024-06-10": 32,
       "2024-02-21": 17
     }
@@ -114,10 +115,10 @@
     "url": "https://www.ocsociety.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 976,
@@ -126,6 +127,7 @@
     "timeMonth": 1017,
     "timeYear": 981,
     "dailyMinutesDown": {
+      "2024-07-01": 1,
       "2024-06-10": 32,
       "2024-02-21": 16
     }
@@ -135,18 +137,19 @@
     "url": "https://blogs.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1205,
+    "time": 1206,
     "timeDay": 1171,
     "timeWeek": 1088,
     "timeMonth": 1159,
     "timeYear": 1222,
     "dailyMinutesDown": {
+      "2024-07-01": 1,
       "2024-06-10": 31,
       "2023-10-09": 17
     }
@@ -176,18 +179,19 @@
     "url": "https://vmt.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/vmt.cranleigh.org.ico",
     "slug": "vmt-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1108,
+    "time": 1109,
     "timeDay": 997,
     "timeWeek": 996,
     "timeMonth": 1183,
     "timeYear": 1125,
     "dailyMinutesDown": {
+      "2024-07-01": 0,
       "2024-06-10": 30,
       "2023-10-09": 15
     }
