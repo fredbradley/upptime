@@ -89,9 +89,9 @@
     "slug": "wp-public-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1125,
     "timeDay": 1247,
@@ -99,7 +99,6 @@
     "timeMonth": 1118,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2024-10-15": 9,
       "2024-07-01": 57,
       "2024-06-10": 32,
       "2024-02-21": 17
@@ -112,9 +111,9 @@
     "slug": "oc-society",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1043,
     "timeDay": 989,
@@ -122,7 +121,6 @@
     "timeMonth": 1500,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2024-10-15": 8,
       "2024-07-01": 35,
       "2024-06-10": 32,
       "2024-02-21": 16
@@ -135,9 +133,9 @@
     "slug": "blogs-network",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1271,
     "timeDay": 1453,
@@ -145,7 +143,6 @@
     "timeMonth": 1796,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2024-10-15": 6,
       "2024-07-01": 34,
       "2024-06-10": 31
     }
@@ -177,9 +174,9 @@
     "slug": "vmt-dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1105,
     "timeDay": 1023,
@@ -187,7 +184,6 @@
     "timeMonth": 1051,
     "timeYear": 1120,
     "dailyMinutesDown": {
-      "2024-10-15": 5,
       "2024-07-01": 34,
       "2024-06-10": 30
     }
