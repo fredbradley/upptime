@@ -1,7 +1,7 @@
 url: https://www.cranleigh.ae
-status: up
-code: 200
-responseTime: 1476
-lastUpdated: 2024-12-15T23:02:01.219Z
+status: degraded
+code: 523
+responseTime: 11622
+lastUpdated: 2024-12-16T16:45:37.450Z
 startTime: 2022-08-30T08:34:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
