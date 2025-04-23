@@ -1,7 +1,7 @@
 url: https://vmt.cranleigh.org
-status: up
+status: degraded
 code: 200
-responseTime: 1144
-lastUpdated: 2025-04-23T23:02:21.630Z
+responseTime: 20497
+lastUpdated: 2025-04-23T23:13:04.355Z
 startTime: 2022-08-30T07:45:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
