@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1027,
-    "timeDay": 1033,
-    "timeWeek": 1260,
-    "timeMonth": 1228,
-    "timeYear": 1044,
+    "timeDay": 1293,
+    "timeWeek": 1223,
+    "timeMonth": 1234,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-09-01": 16,
       "2025-08-15": 21,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1113,
-    "timeDay": 1753,
-    "timeWeek": 1891,
-    "timeMonth": 2143,
-    "timeYear": 1144,
+    "time": 1116,
+    "timeDay": 2196,
+    "timeWeek": 1911,
+    "timeMonth": 2152,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2025-04-22": 31
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1773,
-    "timeDay": 2442,
-    "timeWeek": 2328,
-    "timeMonth": 2708,
-    "timeYear": 1955,
+    "time": 1776,
+    "timeDay": 2612,
+    "timeWeek": 2155,
+    "timeMonth": 2688,
+    "timeYear": 1960,
     "dailyMinutesDown": {}
   },
   {
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 740,
-    "timeDay": 627,
+    "time": 741,
+    "timeDay": 931,
     "timeWeek": 759,
-    "timeMonth": 766,
+    "timeMonth": 775,
     "timeYear": 742,
     "dailyMinutesDown": {
       "2025-05-13": 33,
@@ -104,10 +104,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "90.30%",
     "time": 1178,
-    "timeDay": 950,
-    "timeWeek": 1044,
-    "timeMonth": 1035,
-    "timeYear": 1183,
+    "timeDay": 1199,
+    "timeWeek": 1021,
+    "timeMonth": 1047,
+    "timeYear": 1184,
     "dailyMinutesDown": {
       "2025-10-31": 28,
       "2025-10-23": 18,
@@ -171,8 +171,7 @@
       "2024-12-12": 1440,
       "2024-12-11": 1425,
       "2024-12-04": 24,
-      "2024-11-27": 25,
-      "2024-11-13": 21
+      "2024-11-27": 25
     }
   },
   {
@@ -181,16 +180,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
     "status": "up",
-    "uptime": "87.84%",
+    "uptime": "87.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "61.37%",
+    "uptimeYear": "61.64%",
     "time": 1121,
-    "timeDay": 758,
-    "timeWeek": 983,
-    "timeMonth": 1023,
-    "timeYear": 1083,
+    "timeDay": 1217,
+    "timeWeek": 1001,
+    "timeMonth": 1032,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2025-10-31": 27,
       "2025-05-29": 17,
@@ -332,8 +331,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -342,15 +340,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
     "status": "up",
-    "uptime": "92.79%",
+    "uptime": "92.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "80.48%",
+    "uptimeYear": "80.76%",
     "time": 1553,
-    "timeDay": 981,
-    "timeWeek": 1234,
-    "timeMonth": 1418,
+    "timeDay": 1345,
+    "timeWeek": 1186,
+    "timeMonth": 1419,
     "timeYear": 1598,
     "dailyMinutesDown": {
       "2025-10-31": 25,
@@ -439,8 +437,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -455,9 +452,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 300,
-    "timeWeek": 342,
-    "timeMonth": 358,
+    "timeDay": 327,
+    "timeWeek": 332,
+    "timeMonth": 359,
     "timeYear": 352,
     "dailyMinutesDown": {}
   },
@@ -471,11 +468,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "84.48%",
+    "uptimeYear": "84.75%",
     "time": 1558,
-    "timeDay": 1087,
-    "timeWeek": 1122,
-    "timeMonth": 2569,
+    "timeDay": 1353,
+    "timeWeek": 1149,
+    "timeMonth": 2571,
     "timeYear": 1740,
     "dailyMinutesDown": {
       "2025-10-31": 24,
@@ -540,8 +537,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1420,
-      "2024-11-27": 24,
-      "2024-11-13": 32
+      "2024-11-27": 24
     }
   }
 ]
