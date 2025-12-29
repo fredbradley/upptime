@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1055,
-    "timeDay": 1516,
-    "timeWeek": 1317,
-    "timeMonth": 1284,
-    "timeYear": 1069,
+    "time": 1056,
+    "timeDay": 1499,
+    "timeWeek": 1327,
+    "timeMonth": 1295,
+    "timeYear": 1070,
     "dailyMinutesDown": {
       "2025-09-01": 16,
       "2025-08-15": 21,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1209,
-    "timeDay": 1842,
-    "timeWeek": 2006,
-    "timeMonth": 1919,
-    "timeYear": 1243,
+    "time": 1212,
+    "timeDay": 2255,
+    "timeWeek": 1983,
+    "timeMonth": 1937,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2025-04-22": 31
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1863,
-    "timeDay": 1401,
-    "timeWeek": 2393,
-    "timeMonth": 2117,
-    "timeYear": 2088,
+    "time": 1872,
+    "timeDay": 5354,
+    "timeWeek": 2828,
+    "timeMonth": 2263,
+    "timeYear": 2099,
     "dailyMinutesDown": {}
   },
   {
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admissions.cranleigh.org.ico",
     "slug": "admissions-portal",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 741,
-    "timeDay": 815,
-    "timeWeek": 764,
-    "timeMonth": 710,
+    "timeDay": 847,
+    "timeWeek": 768,
+    "timeMonth": 716,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-12-01": 43,
@@ -102,13 +102,13 @@
     "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "94.94%",
-    "time": 1163,
-    "timeDay": 1034,
-    "timeWeek": 1074,
-    "timeMonth": 976,
-    "timeYear": 1148,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "95.21%",
+    "time": 1164,
+    "timeDay": 1342,
+    "timeWeek": 1076,
+    "timeMonth": 1003,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2025-12-10": 27,
       "2025-12-08": 30,
@@ -157,8 +157,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -167,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
     "status": "up",
-    "uptime": "88.24%",
+    "uptime": "88.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.97%",
-    "time": 1122,
-    "timeDay": 1228,
-    "timeWeek": 1096,
-    "timeMonth": 1044,
-    "timeYear": 1068,
+    "uptimeYear": "74.24%",
+    "time": 1123,
+    "timeDay": 1190,
+    "timeWeek": 1115,
+    "timeMonth": 1054,
+    "timeYear": 1069,
     "dailyMinutesDown": {
       "2025-11-23": 29,
       "2025-10-31": 27,
@@ -273,8 +272,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -283,15 +281,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
     "status": "up",
-    "uptime": "93.05%",
+    "uptime": "93.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "93.05%",
+    "uptimeYear": "93.32%",
     "time": 1730,
-    "timeDay": 1032,
-    "timeWeek": 2556,
-    "timeMonth": 3518,
+    "timeDay": 1088,
+    "timeWeek": 2543,
+    "timeMonth": 3514,
     "timeYear": 1832,
     "dailyMinutesDown": {
       "2025-12-23": 31,
@@ -342,8 +340,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -357,11 +354,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 512,
-    "timeWeek": 362,
-    "timeMonth": 326,
-    "timeYear": 353,
+    "time": 346,
+    "timeDay": 510,
+    "timeWeek": 386,
+    "timeMonth": 335,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -370,16 +367,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vmt.cranleigh.org.ico",
     "slug": "vmt-dashboard",
     "status": "up",
-    "uptime": "94.26%",
+    "uptime": "94.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "89.40%",
+    "uptimeYear": "89.68%",
     "time": 1586,
-    "timeDay": 1233,
-    "timeWeek": 1194,
-    "timeMonth": 1613,
-    "timeYear": 1752,
+    "timeDay": 1071,
+    "timeWeek": 1140,
+    "timeMonth": 1616,
+    "timeYear": 1753,
     "dailyMinutesDown": {
       "2025-12-20": 24,
       "2025-11-29": 23,
@@ -425,8 +422,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   }
 ]
