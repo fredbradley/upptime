@@ -5,16 +5,16 @@ user-agent: fredbradley
 sites:
   - name: Senior School Website
     url: https://www.cranleigh.org
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Prep School Website
     url: https://www.cranprep.org
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Abu Dhabi
     url: https://www.cranleigh.ae
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: Admissions Portal
     url: https://admissions.cranleigh.org
-    maxResponseTime: 10000 
+    maxResponseTime: 5000 
   - name: WP Public Network
     url: https://wordpress-public.cranleigh.org
     maxResponseTime: 10000
@@ -30,6 +30,23 @@ sites:
   - name: VMT Dashboard
     url: https://vmt.cranleigh.org
     maxResponseTime: 10000
+  - name: Cranleigh Activities
+    url: https://www.cranleighactivities.org
+    maxResponseTime: 10000
+  - name: Raise a Concern
+    url: https://raiseaconcern.cranleigh.org
+    maxResponseTime: 5000
+  - name: Service Desk
+    url: https://servicedesk.cranleigh.org
+    maxResponseTime: 5000
+  - name: Asset Bank
+    url: https://assetbank.cranleigh.org
+    maxResponseTime: 5000
+  - name: tHRive
+    url: https://cranleigh.app.ciphr.com/
+    maxResponseTime: 5000
+assignees:
+  - fredbradley
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
