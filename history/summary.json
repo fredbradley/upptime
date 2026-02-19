@@ -156,7 +156,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.49%",
+    "uptimeYear": "88.61%",
     "time": 1071,
     "timeDay": 950,
     "timeWeek": 1129,
@@ -339,9 +339,9 @@
     "url": "https://servicedesk.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/servicedesk.cranleigh.org.ico",
     "slug": "service-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -350,7 +350,9 @@
     "timeWeek": 466,
     "timeMonth": 441,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-19": 0
+    }
   },
   {
     "name": "Asset Bank",
@@ -369,7 +371,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 9,
+      "2026-02-19": 647,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
