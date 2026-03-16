@@ -1,7 +1,7 @@
 url: https://www.cranleigh.org
-status: degraded
-code: 504
-responseTime: 21256
-lastUpdated: 2026-03-16T23:29:16.181Z
+status: up
+code: 200
+responseTime: 1091
+lastUpdated: 2026-03-16T23:42:59.211Z
 startTime: 2022-02-22T16:36:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
