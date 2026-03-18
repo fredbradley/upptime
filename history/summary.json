@@ -6,9 +6,9 @@
     "slug": "senior-school-website",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.96%",
     "time": 1083,
     "timeDay": 896,
@@ -16,7 +16,8 @@
     "timeMonth": 1625,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2026-03-17": 11,
+      "2026-03-18": 10,
+      "2026-03-17": 12,
       "2026-03-16": 29,
       "2026-03-05": 17,
       "2026-02-26": 36,
@@ -34,9 +35,9 @@
     "slug": "prep-school-website",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 1239,
     "timeDay": 4562,
@@ -44,7 +45,7 @@
     "timeMonth": 1481,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2026-03-17": 29,
+      "2026-03-17": 20,
       "2026-03-16": 20,
       "2026-02-26": 15,
       "2025-04-22": 31
@@ -165,7 +166,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.88%",
+    "uptimeYear": "95.89%",
     "time": 1072,
     "timeDay": 1028,
     "timeWeek": 1006,
@@ -188,8 +189,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -357,7 +357,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 1439,
+      "2026-03-18": 10,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
