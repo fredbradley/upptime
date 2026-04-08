@@ -86,7 +86,7 @@
     "timeDay": 846,
     "timeWeek": 780,
     "timeMonth": 701,
-    "timeYear": 748,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-12-01": 43,
       "2025-05-13": 33,
@@ -97,8 +97,7 @@
       "2025-04-24": 4,
       "2025-04-19": 23,
       "2025-04-16": 39,
-      "2025-04-14": 22,
-      "2025-04-08": 21
+      "2025-04-14": 22
     }
   },
   {
@@ -108,17 +107,16 @@
     "slug": "wp-public-network",
     "status": "up",
     "uptime": "97.24%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1151,
     "timeDay": 1164,
-    "timeWeek": 2823,
+    "timeWeek": 3080,
     "timeMonth": 1490,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2026-04-07": 3,
       "2026-03-06": 43,
       "2026-02-28": 31,
       "2026-02-26": 34,
@@ -190,7 +188,7 @@
     "uptimeYear": "99.91%",
     "time": 1681,
     "timeDay": 8147,
-    "timeWeek": 2361,
+    "timeWeek": 2569,
     "timeMonth": 1373,
     "timeYear": 1822,
     "dailyMinutesDown": {
@@ -277,7 +275,7 @@
     "uptimeYear": "99.88%",
     "time": 1293,
     "timeDay": 4523,
-    "timeWeek": 3355,
+    "timeWeek": 3702,
     "timeMonth": 1636,
     "timeYear": 1293,
     "dailyMinutesDown": {
@@ -341,7 +339,8 @@
     "timeMonth": 5488,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-04-07": 1396,
+      "2026-04-08": 14,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
