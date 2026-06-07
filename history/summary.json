@@ -44,7 +44,7 @@
     "timeDay": 801,
     "timeWeek": 618,
     "timeMonth": 1088,
-    "timeYear": 1359,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2026-02-26": 15,
       "2026-03-16": 20,
@@ -79,12 +79,12 @@
     "slug": "admissions-portal",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "86.50%",
+    "uptimeDay": "90.97%",
     "uptimeWeek": "89.50%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.79%",
     "time": 727,
-    "timeDay": 557,
+    "timeDay": 624,
     "timeWeek": 541,
     "timeMonth": 598,
     "timeYear": 717,
@@ -161,7 +161,7 @@
     "timeDay": 1610,
     "timeWeek": 1494,
     "timeMonth": 1503,
-    "timeYear": 1098,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2025-10-31": 27,
       "2025-11-23": 29
@@ -182,7 +182,7 @@
     "timeDay": 1035,
     "timeWeek": 968,
     "timeMonth": 1194,
-    "timeYear": 1797,
+    "timeYear": 1798,
     "dailyMinutesDown": {
       "2025-06-12": 18,
       "2025-06-19": 18,
@@ -228,17 +228,17 @@
     "url": "https://vmt.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/vmt.cranleigh.org.ico",
     "slug": "vmt-dashboard",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1650,
-    "timeDay": 2337,
-    "timeWeek": 1759,
-    "timeMonth": 2048,
-    "timeYear": 1707,
+    "time": 1667,
+    "timeDay": 6436,
+    "timeWeek": 2856,
+    "timeMonth": 2313,
+    "timeYear": 1731,
     "dailyMinutesDown": {
       "2025-06-12": 17,
       "2025-06-19": 17,
@@ -246,7 +246,8 @@
       "2025-10-31": 24,
       "2025-11-29": 23,
       "2025-12-20": 24,
-      "2025-12-31": 26
+      "2025-12-31": 26,
+      "2026-06-07": 1
     }
   },
   {
@@ -326,7 +327,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-06-07": 953,
+      "2026-06-07": 1390,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
