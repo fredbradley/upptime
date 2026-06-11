@@ -79,10 +79,10 @@
     "slug": "admissions-portal",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "90.20%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "89.97%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "99.76%",
     "time": 726,
     "timeDay": 479,
     "timeWeek": 524,
@@ -99,7 +99,7 @@
       "2026-06-07": 108,
       "2026-06-09": 84,
       "2026-06-08": 21,
-      "2026-06-11": 1
+      "2026-06-11": 24
     }
   },
   {
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-06-11": 9,
+      "2026-06-11": 32,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
