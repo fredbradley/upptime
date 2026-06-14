@@ -1,7 +1,7 @@
 url: https://admissions.cranleigh.org
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2026-06-14T03:46:32.978Z
+status: down
+code: 403
+responseTime: 254
+lastUpdated: 2026-06-14T18:06:20.848Z
 startTime: 2022-08-30T08:34:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
