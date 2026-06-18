@@ -77,17 +77,17 @@
     "url": "https://admissions.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/admissions.cranleigh.org.ico",
     "slug": "admissions-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "87.81%",
-    "uptimeWeek": "92.10%",
-    "uptimeMonth": "95.24%",
+    "uptimeDay": "87.13%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "99.59%",
     "time": 716,
-    "timeDay": 464,
-    "timeWeek": 526,
+    "timeDay": 491,
+    "timeWeek": 529,
     "timeMonth": 559,
-    "timeYear": 700,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2025-12-01": 43,
       "2026-05-07": 19,
@@ -104,7 +104,7 @@
       "2026-06-14": 116,
       "2026-06-16": 178,
       "2026-06-17": 193,
-      "2026-06-18": 176
+      "2026-06-18": 185
     }
   },
   {
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-06-18": 1413,
+      "2026-06-18": 1423,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
