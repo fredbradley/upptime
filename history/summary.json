@@ -59,18 +59,20 @@
     "url": "https://www.cranleigh.ae",
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.ae.ico",
     "slug": "abu-dhabi",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2188,
-    "timeDay": 1342,
-    "timeWeek": 1586,
-    "timeMonth": 1980,
-    "timeYear": 2340,
-    "dailyMinutesDown": {}
+    "time": 2198,
+    "timeDay": 3850,
+    "timeWeek": 2182,
+    "timeMonth": 2117,
+    "timeYear": 2351,
+    "dailyMinutesDown": {
+      "2026-06-29": 1
+    }
   },
   {
     "name": "Admissions Portal",
@@ -329,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-06-29": 28,
+      "2026-06-29": 1373,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
