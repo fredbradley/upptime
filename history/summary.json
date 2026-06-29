@@ -44,7 +44,7 @@
     "timeDay": 686,
     "timeWeek": 607,
     "timeMonth": 685,
-    "timeYear": 1345,
+    "timeYear": 1347,
     "dailyMinutesDown": {
       "2026-02-26": 15,
       "2026-03-16": 20,
@@ -59,19 +59,19 @@
     "url": "https://www.cranleigh.ae",
     "icon": "https://icons.duckduckgo.com/ip3/www.cranleigh.ae.ico",
     "slug": "abu-dhabi",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2198,
-    "timeDay": 3850,
-    "timeWeek": 2182,
+    "time": 2201,
+    "timeDay": 3270,
+    "timeWeek": 2174,
     "timeMonth": 2117,
-    "timeYear": 2351,
+    "timeYear": 2350,
     "dailyMinutesDown": {
-      "2026-06-29": 1
+      "2026-06-29": 24
     }
   },
   {
@@ -124,7 +124,7 @@
     "timeDay": 681,
     "timeWeek": 782,
     "timeMonth": 1360,
-    "timeYear": 1287,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2025-07-03": 19,
       "2025-07-17": 21,
@@ -191,7 +191,7 @@
     "timeDay": 911,
     "timeWeek": 1001,
     "timeMonth": 1034,
-    "timeYear": 1723,
+    "timeYear": 1724,
     "dailyMinutesDown": {
       "2025-07-17": 20,
       "2025-07-31": 19,
@@ -245,7 +245,7 @@
     "timeDay": 1695,
     "timeWeek": 1729,
     "timeMonth": 2027,
-    "timeYear": 1693,
+    "timeYear": 1695,
     "dailyMinutesDown": {
       "2025-08-14": 17,
       "2025-10-31": 24,
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-06-29": 1373,
+      "2026-06-29": 1397,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
