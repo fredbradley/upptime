@@ -14,7 +14,7 @@
     "timeDay": 616,
     "timeWeek": 599,
     "timeMonth": 473,
-    "timeYear": 1007,
+    "timeYear": 1006,
     "dailyMinutesDown": {
       "2025-08-15": 21,
       "2025-09-01": 16,
@@ -44,7 +44,7 @@
     "timeDay": 689,
     "timeWeek": 697,
     "timeMonth": 665,
-    "timeYear": 1336,
+    "timeYear": 1337,
     "dailyMinutesDown": {
       "2026-02-26": 15,
       "2026-03-16": 20,
@@ -69,7 +69,7 @@
     "timeDay": 1357,
     "timeWeek": 1902,
     "timeMonth": 2005,
-    "timeYear": 2317,
+    "timeYear": 2315,
     "dailyMinutesDown": {
       "2026-06-29": 24
     }
@@ -114,17 +114,17 @@
     "url": "https://wordpress-public.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-public.cranleigh.org.ico",
     "slug": "wp-public-network",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.88%",
-    "time": 1273,
-    "timeDay": 1286,
-    "timeWeek": 1356,
-    "timeMonth": 1552,
-    "timeYear": 1296,
+    "time": 1295,
+    "timeDay": 7253,
+    "timeWeek": 2839,
+    "timeMonth": 1483,
+    "timeYear": 1327,
     "dailyMinutesDown": {
       "2025-07-24": 21,
       "2025-07-31": 21,
@@ -150,7 +150,8 @@
       "2026-02-26": 34,
       "2026-02-28": 31,
       "2026-03-06": 43,
-      "2026-06-21": 19
+      "2026-06-21": 19,
+      "2026-07-21": 1
     }
   },
   {
@@ -159,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
     "status": "up",
-    "uptime": "89.74%",
+    "uptime": "89.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -180,7 +181,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
     "status": "up",
-    "uptime": "94.05%",
+    "uptime": "94.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -328,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-07-21": 89,
+      "2026-07-21": 1395,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
