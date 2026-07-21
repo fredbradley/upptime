@@ -1,7 +1,7 @@
 url: https://wordpress-public.cranleigh.org
-status: up
+status: degraded
 code: 200
-responseTime: 1286
-lastUpdated: 2026-07-20T23:48:54.719Z
+responseTime: 13219
+lastUpdated: 2026-07-21T23:14:27.158Z
 startTime: 2022-08-30T08:34:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
