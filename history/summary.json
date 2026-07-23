@@ -44,7 +44,7 @@
     "timeDay": 797,
     "timeWeek": 682,
     "timeMonth": 680,
-    "timeYear": 1334,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2026-02-26": 15,
       "2026-03-16": 20,
@@ -69,7 +69,7 @@
     "timeDay": 963,
     "timeWeek": 1572,
     "timeMonth": 1972,
-    "timeYear": 2307,
+    "timeYear": 2304,
     "dailyMinutesDown": {
       "2026-06-29": 24
     }
@@ -114,17 +114,17 @@
     "url": "https://wordpress-public.cranleigh.org",
     "icon": "https://icons.duckduckgo.com/ip3/wordpress-public.cranleigh.org.ico",
     "slug": "wp-public-network",
-    "status": "up",
-    "uptime": "97.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "status": "degraded",
+    "uptime": "97.45%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.87%",
-    "time": 1297,
-    "timeDay": 1427,
-    "timeWeek": 2861,
-    "timeMonth": 1525,
-    "timeYear": 1329,
+    "time": 1318,
+    "timeDay": 6921,
+    "timeWeek": 3922,
+    "timeMonth": 1865,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-07-24": 21,
       "2025-07-31": 21,
@@ -151,7 +151,8 @@
       "2026-02-28": 31,
       "2026-03-06": 43,
       "2026-06-21": 19,
-      "2026-07-21": 36
+      "2026-07-21": 36,
+      "2026-07-23": 1
     }
   },
   {
@@ -160,7 +161,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ocsociety.org.ico",
     "slug": "oc-society",
     "status": "up",
-    "uptime": "89.75%",
+    "uptime": "89.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -181,7 +182,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
     "status": "up",
-    "uptime": "94.06%",
+    "uptime": "94.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -190,7 +191,7 @@
     "timeDay": 1450,
     "timeWeek": 1132,
     "timeMonth": 1065,
-    "timeYear": 1717,
+    "timeYear": 1718,
     "dailyMinutesDown": {
       "2025-07-31": 19,
       "2025-08-14": 18,
@@ -234,7 +235,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vmt.cranleigh.org.ico",
     "slug": "vmt-dashboard",
     "status": "up",
-    "uptime": "95.09%",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -329,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-07-23": 107,
+      "2026-07-23": 1396,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
