@@ -179,7 +179,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
     "status": "up",
-    "uptime": "94.16%",
+    "uptime": "94.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -211,10 +211,10 @@
     "url": "https://www.awesomebookawards.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.awesomebookawards.com.ico",
     "slug": "awesome-book-awards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
@@ -222,7 +222,9 @@
     "timeWeek": 368,
     "timeMonth": 377,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-17": 1
+    }
   },
   {
     "name": "VMT Dashboard",
@@ -324,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-08-17": 36,
+      "2026-08-17": 476,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
