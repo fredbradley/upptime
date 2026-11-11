@@ -14,7 +14,7 @@
     "timeDay": 1073,
     "timeWeek": 1015,
     "timeMonth": 1076,
-    "timeYear": 990,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2026-02-06": 20,
       "2026-02-20": 20,
@@ -42,7 +42,7 @@
     "timeDay": 1652,
     "timeWeek": 1553,
     "timeMonth": 1656,
-    "timeYear": 1348,
+    "timeYear": 1347,
     "dailyMinutesDown": {
       "2026-02-26": 15,
       "2026-03-16": 20,
@@ -67,7 +67,7 @@
     "timeDay": 1527,
     "timeWeek": 1875,
     "timeMonth": 1897,
-    "timeYear": 2066,
+    "timeYear": 2064,
     "dailyMinutesDown": {
       "2026-06-29": 24
     }
@@ -87,7 +87,7 @@
     "timeDay": 692,
     "timeWeek": 666,
     "timeMonth": 765,
-    "timeYear": 683,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2025-12-01": 43,
       "2026-05-07": 19,
@@ -169,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogs.cranleigh.org.ico",
     "slug": "blogs-network",
     "status": "up",
-    "uptime": "94.48%",
+    "uptime": "94.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
@@ -199,11 +199,11 @@
     "url": "https://www.awesomebookawards.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.awesomebookawards.com.ico",
     "slug": "awesome-book-awards",
-    "status": "up",
+    "status": "down",
     "uptime": "94.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "48.42%",
-    "uptimeMonth": "9.23%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "60.01%",
+    "uptimeMonth": "11.90%",
     "uptimeYear": "77.67%",
     "time": 366,
     "timeDay": 620,
@@ -292,7 +292,8 @@
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
-      "2026-08-17": 965
+      "2026-08-17": 965,
+      "2026-11-11": 1
     }
   },
   {
@@ -394,7 +395,8 @@
     "timeMonth": 0,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2026-11-10": 306,
+      "2026-11-11": 35,
+      "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
